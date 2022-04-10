@@ -1,0 +1,14 @@
+{
+  "Updates": [
+    {
+      "Version": 1.0,
+      "IsMustHave": true,
+      "Latest": true,
+      "Changes": [
+        " - Official Release."
+      ]
+    }
+  ],
+  "DownloadLink": "https://jadquir.itch.io/photoshop-ui-color-changer",
+  "UpdateLink": "https://raw.githubusercontent.com/Jadquir/Photoshop-UI-Color-Changer-Settings/main/newVersion.json"
+}
